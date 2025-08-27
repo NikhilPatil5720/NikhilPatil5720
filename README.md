@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikhil Patil</h1>
 <h3 align="center" style="color:#4caf50;">A passionate Full Stack developer from India</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NikhilPatil5720/NikhilPatil5720/refs/heads/main/Full-Stack-Developer-1.webp" alt="3D Tech Banner" width="100%" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nikhilpatil5720&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpatil5720" style="margin-bottom:10px;"/>
 </p>
