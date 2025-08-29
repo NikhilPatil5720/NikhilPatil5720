@@ -91,7 +91,7 @@
 
 <p align="left">
 
-   <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,mongodb,mysql,bootstrap,html,css,figma,git,github,docker,aws" alt="Tech stack" />
+   <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,bootstrap,html,css,figma,git,github,docker,aws,tensorflow,docker,firebase,blender,flask" alt="Tech stack" />
 
 </p>
 
