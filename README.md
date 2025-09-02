@@ -121,7 +121,7 @@
 
 <p align="center">
   <strong>📬 Contact:</strong> <a href="mailto:nikhilpatil5720@gmail.com">nikhilpatil5720@gmail.com</a> <br />
-    <strong>🌐:</strong> <a href="https://nikhilpatil-portfolio.vercel.app/">Portfolio</a> <br />
+    <strong>🌐:</strong> <a href="https://nikhilpatil5720-portfolio.vercel.app/">Portfolio</a> <br />
   
 </p>
 
